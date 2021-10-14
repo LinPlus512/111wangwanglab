@@ -1,0 +1,4 @@
+humi True
+temp True
+lux True
+mois True
